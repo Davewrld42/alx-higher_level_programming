@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-# Author - David Eke
+# 11-pow.py
+# David Eke
+
 
 def pow(a, b):
+    """Return a to the power of b."""
     return (a ** b)
-
